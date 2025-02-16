@@ -223,7 +223,7 @@ export default function Frame() {
                   Final Score: {score}/{QUIZ_QUESTIONS.length}
                 </p>
                 <p className="text-sm text-gray-500 text-center">
-                  Based on Guillermo Rauch's bio from rauchg.com/about
+                  Based on Guillermo Rauch&apos;s bio from rauchg.com/about
                 </p>
               </CardContent>
             </Card>
